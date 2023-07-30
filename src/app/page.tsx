@@ -19,8 +19,8 @@ export default function Home() {
             <div className="flex flex-col items-start mt-12 mb-16 text-left lg:flex-grow lg:w-1/2 lg:pl-6 xl:pl-24 md:mb-0 xl:mt-0">
               <span className="mb-8 text-xs font-bold tracking-widest text-blue-600 uppercase"> twecon </span>
               <h1 className="mb-8 text-4xl font-bold leading-none tracking-tighter text-neutral-600 md:text-7xl lg:text-5xl">tweconはサービスを終了しました</h1>
-              <p className="mb-8 text-base leading-relaxed text-left text-gray-500">tweconはtwitterのAPIを使用しサービスを提供してまいりましたが、仕様変更によりサービスの継続が困難となったため開発並びに提供を終了させていただきます。</p>
-              <p className="mb-8 text-base leading-relaxed text-left text-gray-500">ご利用いただきありがとうございました。</p>
+              <p className="mb-8 text-base leading-relaxed text-left text-gray-500">tweconはtwitterのAPIを使用しサービスを提供してまいりましたが、仕様変更によりサービスの継続が困難となったため2023年7月30日をもって開発並びに提供を終了させていただきます。</p>
+              <p className="mb-8 text-base leading-relaxed text-left text-gray-500">長らくtweconをご愛用いただきありがとうございました。</p>
               <div className="flex-col mt-0 lg:mt-6 max-w-7xl sm:flex">
                 <div className="prose prose-md">
                   <ul>
